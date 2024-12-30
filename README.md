@@ -37,7 +37,7 @@ To run the chatbot:
 # Step 5: Chatting with the Bot
 Once the script is running, you’ll see the following output:
 
-Hello, I am Codbot. Type 'bye' to end the conversation.
+Hello, I am Chatbot. Type 'bye' to end the conversation.
 > hi
 Hello! How can I assist you today?
 
